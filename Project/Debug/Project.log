@@ -1,2 +1,7 @@
-﻿  Project.cpp
-  Project.vcxproj -> C:\Users\ExtremeTech\source\repos\Project\Debug\Project.exe
+﻿  DemoClient.cpp
+C:\Users\ExtremeTech\Downloads\WinsockDemo-master\DemoClient\DemoClient.cpp(23,54): error C2664: 'INT InetPtonW(INT,PCWSTR,PVOID)': cannot convert argument 2 from 'const char [10]' to 'PCWSTR'
+C:\Users\ExtremeTech\Downloads\WinsockDemo-master\DemoClient\DemoClient.cpp(23,20): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ws2tcpip.h(583,1): message : see declaration of 'InetPtonW'
+  DemoServer.cpp
+  Project.cpp
+  Generating Code...

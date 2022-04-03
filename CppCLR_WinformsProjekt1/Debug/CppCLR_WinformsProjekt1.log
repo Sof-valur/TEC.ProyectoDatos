@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ClientIO.cpp
+  ClienteIO.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\ExtremeTech\source\repos\Sof-valur\TEC.ProyectoDatos\CppCLR_WinformsProjekt1\Form1.h(35,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ExtremeTech\source\repos\Sof-valur\TEC.ProyectoDatos\CppCLR_WinformsProjekt1\Form1.h(40,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Form1.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\ExtremeTech\source\repos\Sof-valur\TEC.ProyectoDatos\Debug\CppCLR_WinformsProjekt1.exe
